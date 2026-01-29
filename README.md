@@ -1,43 +1,28 @@
-The Spec Analytics Analyst is a trainee professional role. Requires a good knowledge of the range of processes, procedures and systems to be used in carrying out assigned tasks and a basic understanding of the underlying concepts and principles upon which the job is based. Good understanding of how the team interacts with others in accomplishing the objectives of the area. Makes evaluative judgements based on the analysis of factual information. They are expected to resolve problems by identifying and selecting solutions through the application of acquired technical experience and will be guided by precedents. Must be able to exchange information in a concise way as well as be sensitive to audience diversity. Limited but direct impact on the business through the quality of the tasks/services provided. Impact of the job holder is restricted to own job.
+Siemens EDA is a global technology leader in Electronic Design Automation software. Our software tools enable companies around the world to develop highly innovative electronic products faster and more cost-effectively. Our customers use our tools to push the boundaries of technology and physics to deliver better products in the Increasingly complex world of chip, board, and system design
+Real trendsetters in every language.
 
-Responsibilities:
+We are looking for hard-working Data Scientists who will be a member of our technology and innovation team responsible for new technology development and innovation projects within our organization.
 
-Incumbents work with large and complex data sets (both internal and external data) to evaluate, recommend, and support the implementation of business strategies
-Identifies and compiles data sets using a variety of tools (e.g. SQL, Access) to help predict, improve, and measure the success of key business to business outcomes
-Responsible for documenting data requirements, data collection / processing / cleaning, and exploratory data analysis; which may include utilizing statistical models / algorithms and data visualization techniques
-Incumbents in this role may often be referred to as Data Scientists
-Specialization in marketing, risk, digital and AML fields possible
-Appropriately assess risk when business decisions are made, demonstrating particular consideration for the firm's reputation and safeguarding Citigroup, its clients and assets, by driving compliance with applicable laws, rules and regulations, adhering to Policy, applying sound ethical judgment regarding personal behavior, conduct and business practices, and escalating, managing and reporting control issues with transparency.
+We make real what matters!
 
-Qualifications:
+This is your role.
 
-1-6 years of related experience into Data Science preferred
-Have the ability to retrieve and manipulation data
-Working experience in a quantitative field
-Possess analytic ability and problem solving skills
-Excellent communication and interpersonal skills, be organized, detail oriented, and adaptive to matrix work environment
+Research, create and implement advanced statistical models and innovative machine learning algorithms on fast paced structured and unstructured data to support decision making.
+You need to Investigate the most appropriate techniques to solve complex problems by assessing diverse mathematical, statistical and AI models.
+Collaborate with engineering teams to seamlessly transition AI innovations into scalable and reliable operational solutions.
+Communicate findings and insights to both technical and non-technical stakeholders through clear and concise reports, visualizations and presentations to gain alignment and drive business actions
+You have to collaborate with Software Engineers to ensure the smooth integration of data science products into global offerings.
+Have a very strong product approach and proactively conceptualise, design, improve and automate relevant data products.
+Guide and mentor junior data scientists and rest of the team on modeling process and algorithm and develop a collaborative and innovative work environment
+Stay up to date with the latest advancements in LLM, NLP, deep learning, and machine learning algorithms, and proactively find opportunities to demonstrate new technologies for improved solutions.
+We don’t need superheroes, just super minds.
 
-Education:
+Candidates should possess a PhD or Master’s degree or equivalent experience in Computer Science, Statistics, Data Science, Mathematics, or another field (e.g., Electrical Engineering, Economics, Psychology) that emphasizes scientific methods of research and analysis.
+A minimum of five years of professional work experience is required, preferably in a global setup with distributed virtual teams and environments.
+Strong data fundamentals and a proven ability to organize, clean, schematize, and process data are crucial, along with a solid understanding of how to apply data science methodologies to solve sophisticated problems.
+Expertise in deep-learning model fine-tuning and deployment is considered a plus, as is experience in working with generative/multi-modal/multi-task models.
+Solid programming skills in Python and familiarity with challenges associated with large datasets are mandatory. While not closely required, a strong academic and publication record is desired. Proficiency in English is also a key requirement for this role.
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, sex, gender, gender expression, sexual orientation, age, marital status, veteran status, or disability status.
 
-Bachelors/University degree or equivalent experience
-
-This job description provides a high-level review of the types of work performed. Other job-related duties may be assigned as required.
-
--------------------------------------------
-
-Time Type:
-
-Full time
-------------------------------------------------------
-
-Most Relevant Skills
-
-Please see the requirements listed above.
-------------------------------------------------------
-
-Other Relevant Skills
-
-For complementary skills, please see above and/or contact the recruiter.
-------------------------------------------------------
-
-Citi is an equal opportunity employer, and qualified candidates will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other characteristic protected by law.
+We are Siemens
+A collection of over 377,000 minds building the future, one day at a time in over 200 countries. We're dedicated to equality, and we welcome applications that reflect the diversity of the communities we work in. All employment decisions at Siemens are based on qualifications, merit, and business need. Bring your curiosity and creativity and help us shape tomorrow! We offer a comprehensive reward package which includes a competitive basic salary, bonus scheme, generous holiday allowance, pension, and private healthcare
